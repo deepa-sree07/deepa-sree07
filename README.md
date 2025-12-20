@@ -3,4 +3,3 @@
 - 🪪 I am pursuing B.E CSE (Cyber security) course 2nd year.
 - 🌱 I’m currently learning about git.
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: I love sleeping.
